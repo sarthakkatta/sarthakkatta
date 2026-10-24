@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sarthak Katta</h1>
 <h3 align="center">A passionate Full-Stack developer from Jaipur,India</h3>
 
-- 🔭 I’m currently working on **LifeLine AI**
+- 🚀 I'm currently building **LifeLine AI – Emergency Response Platform**
 
-- 🌱 I’m currently learning **DevOps, Docker, Kubernetes, GitHub Actions, Terraform, Linux, AWS**
+- 💻 I work with **Full-Stack Development (React, Next.js, Node.js, Express.js, MongoDB)**
 
-- 👯 I’m looking to collaborate on **AI & Full Stack Projects**
+- ☁️ I've learned **DevOps & Cloud technologies**, including **Docker, Kubernetes, Linux, AWS, Terraform, GitHub Actions, Prometheus, Grafana and CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://futuristic-os-portfolio.vercel.app/](https://futuristic-os-portfolio.vercel.app/)
+- 📊 I work with **Power BI and Data Analytics** to transform data into actionable insights
 
-- 💬 Ask me about **MERN Stack and Data Structures and Algorithms**
+- 🏗️ Currently strengthening my **System Design skills**, focusing on **scalability, load balancing, caching, databases, APIs, and distributed systems**
 
-- 📫 How to reach me **sarthakkatta2005@gmail.com**
+- 🤝 I'm open to collaborating on **Full-Stack, DevOps, Cloud, AI, and Data Analytics projects**
 
-- ⚡ Fun fact **Runs on coffee and curiosity.**
+- 🌐 Explore my projects: [My Portfolio](https://futuristic-os-portfolio.vercel.app/)
+
+- 💬 Ask me about **MERN Stack, DevOps, Cloud, Power BI, System Design Fundamentals, and Data Structures & Algorithms**
+
+- 📫 Reach me at **sarthakkatta.it27@gmail.com**
+
+- ⚡ Fun fact: **I run on coffee, code, and curiosity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
